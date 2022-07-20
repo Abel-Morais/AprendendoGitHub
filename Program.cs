@@ -1,5 +1,8 @@
-Programa em C#
+System.Console.WriteLine("Bem vindo ao Programa de teste do Github");
 
-Função ainda a ser definida
+System.Console.WriteLine("Qual o seu nome?");
 
-Teste de criação
+string nome = Console.ReadLine();
+
+System.Console.WriteLine("Seu nome é " + nome);
+
